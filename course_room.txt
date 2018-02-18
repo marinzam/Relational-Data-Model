@@ -1,0 +1,4 @@
+CSC172	Meliora 251
+BCS272	Dewey 109
+CS101	Turing Aud.
+EE200	25 Ohm Hall

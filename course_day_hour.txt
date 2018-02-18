@@ -1,0 +1,10 @@
+CSC172	Monday	9AM
+CSC172	Wednesday	9AM
+BCS272	Tuesday	1PM
+BCS272	Thursday	3PM 
+CS101	Monday	9AM
+CS101	Wednesday	9AM
+CS101	Friday	9AM
+EE200	Tuesday	10AM
+EE200	Wednesday	1PM
+EE200	Thursday	10AM
